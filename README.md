@@ -13,6 +13,17 @@ I love turning data into actionable insights and visualizations. With a backgrou
 ## 📂 Projects
 Here are some of the projects I've worked on:
 1. **[Pizza Sales Analysis]** -This data analysis seeks to identify trends, make data driven recommendation, and give deeper understanding of the company's performance.[https://github.com/Lope-lab/PIZZA-SALES-ANALYSIS]
+## Education 
+**Data Analytics** Techie Academy
+**Graduated**: June 2025
+
+**Bachelor of Science in Education, Political Science** Adekunle Ajasin University, Ondo [Nigeria] 
+
+**Graduated**: September 2024
+
+## Certification 
+- **Data Analytics**- Techie Academy
+- **CRM,SQL and Linux Command**- Techie Academy 
 
 ## 📫 Get in Touch
 Feel free to connect with me:
