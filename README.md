@@ -16,8 +16,8 @@ Here are some of the projects I've worked on:
 
 ## 📫 Get in Touch
 Feel free to connect with me:
-- [LinkedIn](https://www.linkedin.com/in/yourprofile) 
-- [Email](mailto:youremail@example.com)
+- Linkedin-(https://www.linkedin.com/in/blessing-omodele-387475255)
+- Email- blessingomodele717@gmail.com
 
 Thank you for visiting my portfolio. I look forward to connecting and collaborating!
 
