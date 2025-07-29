@@ -12,7 +12,7 @@ I love turning data into actionable insights and visualizations. With a backgrou
 
 ## 📂 Projects
 Here are some of the projects I've worked on:
-1. **[Pizza Sales Analysis]** -This data analysis seeks to identify trends, make data driven recommendation, and give deeper understanding of the company's performance.[Link to project or demo]
+1. **[Pizza Sales Analysis]** -This data analysis seeks to identify trends, make data driven recommendation, and give deeper understanding of the company's performance.[https://github.com/Lope-lab/PIZZA-SALES-ANALYSIS]
 
 ## 📫 Get in Touch
 Feel free to connect with me:
